@@ -19,6 +19,7 @@ This example runs a [Directus](https://directus.io/) instance with minimal confi
 - Directus
 - PostgreSQL
 - Javascript
+- ...
 
 ## 💁‍♀️ How to use
 
